@@ -1,0 +1,18 @@
+[
+  {
+    "command": "/help",
+    "info": "Mostra comandi disponibili"
+  },
+  {
+    "command": "/register",
+    "info": "Registra le informazioni dell'utente"
+  },
+  {
+    "command": "/quiz",
+    "info": "Avvia il gioco"
+  },
+  {
+    "command": "TEST",
+    "info": "TEST"
+  }
+]
